@@ -1,0 +1,21 @@
+{
+    "name": "light",
+    "body": {
+        "bg": "white",
+        "menu_bg": "grey90",
+        "hover_menu_bg": "grey94",
+        "button_bg": "grey90",
+        "hover_button_bg": "grey94",
+        "entry_bg": "ivory2",
+        "text_color": "black",
+        "error": "brown1",
+        "menu_text_color": "black",
+        "button_text_color": "black",
+        "button_border_color": "seashell3",
+        "tile_color_bg": "LightSteelBlue1",
+        "tile_outline_color": "slate blue",
+        "ship_color": "slate blue",
+        "ship_outline_color": "SlateBlue4",
+        "shoot_color": "SpringGreen3"
+    }
+}

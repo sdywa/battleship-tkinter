@@ -1,0 +1,21 @@
+{
+    "name": "dark",
+    "body": {
+        "bg": "grey20",
+        "menu_bg": "grey10",
+        "hover_menu_bg": "grey3",
+        "button_bg": "grey15",
+        "hover_button_bg": "grey7",
+        "entry_bg": "gray7",
+        "text_color": "linen",
+        "error": "brown3",
+        "menu_text_color": "gray75",
+        "button_text_color": "linen",
+        "button_border_color": "MistyRose4",
+        "tile_color_bg": "LightSteelBlue1",
+        "tile_outline_color": "slate blue",
+        "ship_color": "slate blue",
+        "ship_outline_color": "SlateBlue4",
+        "shoot_color": "SpringGreen3"
+    }
+}
