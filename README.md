@@ -3,7 +3,7 @@
 <div align="center">Battleship for local network play on Tkinter, a final project in the college Python course.</div>
 <div align="center">
     <br />
-    <img src="https://github.com/sdywa/battleship-tkinter/assets/73535285/7669fb7e-25b6-4e6c-95c1-eaf2990d850c" height="300" />
+    <img src="https://github.com/sdywa/battleship-tkinter/assets/73535285/7669fb7e-25b6-4e6c-95c1-eaf2990d850c" width="830" />
 </div>
 </p>
 
